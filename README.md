@@ -12,6 +12,8 @@ A few resources to get you started if this is your first Flutter project:
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
 ![Project Screenshot](img1.png)
+![Project Screenshot](img2.png)
+![Project Screenshot](img3.png)
 
   
 
